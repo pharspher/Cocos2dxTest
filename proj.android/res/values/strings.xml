@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cocos2dx Test</string>
+    <string name="leave_dialog_title">Leave</string>
+    <string name="leave_dialog_message">Are you sure to leave?</string>
+    <string name="leave_dialog_yes">Yes</string>
+    <string name="leave_dialog_no">No</string>
+</resources>
